@@ -1,0 +1,3 @@
+navbar
+screensize
+scroll slowly
